@@ -5,4 +5,4 @@ def meal_choice(veg1, veg2, protein = "meat")
 end
 
 
-meal_choice("carrot", "asparagus", "salmon")
+puts meal_choice("carrot", "asparagus", "salmon")
